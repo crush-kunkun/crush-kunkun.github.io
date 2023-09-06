@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://crush-kunkun.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://crush-kunkun.github.io/lib/three/package.json</loc>
     
     <lastmod>2023-09-05</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://crush-kunkun.github.io/lib/three/README.html</loc>
-    
-    <lastmod>2023-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://crush-kunkun.github.io/tags/index.html</loc>
     
     <lastmod>2023-09-05</lastmod>
     
@@ -90,6 +90,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://crush-kunkun.github.io/tags/Testing/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://crush-kunkun.github.io/tags/Gaming/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
